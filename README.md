@@ -12,3 +12,7 @@ Taskflow Backend, görev yönetimi için Node.js kullanılarak geliştirilmiş b
 1. Repo’yu klonlayın:
    ```bash
    git clone https://github.com/fatmaydincoder/taskflow-backend.git
+
+## 📸 Test Süreci
+CRUD endpoint’leri Postman üzerinde test edilmiştir.  
+Ekran görüntüleri için [screenshots klasörüne](./screenshots) bakabilirsiniz.
